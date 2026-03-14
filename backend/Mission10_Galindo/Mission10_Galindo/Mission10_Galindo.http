@@ -1,0 +1,6 @@
+@Mission10_Galindo_HostAddress = http://localhost:5048
+
+GET {{Mission10_Galindo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
